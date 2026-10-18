@@ -3,7 +3,7 @@
     "__guid": "47b94072-0d28-467d-a476-0da8ac47dfc4",
     "__version": 2,
     "Flags": 0,
-    "Name": "Navi Desktop",
+    "Name": "navi desktop",
     "Position": "0,0,0",
     "Rotation": "0,0,-1,-4.37113883E-08",
     "Scale": "1,1,1",
@@ -93,7 +93,7 @@
         "__enabled": true,
         "Flags": 0,
         "HorizontalAlign": "Center",
-        "InteractionRange": 100,
+        "InteractionRange": 250,
         "Lighting": false,
         "LookAtCamera": false,
         "OnComponentDestroy": null,
@@ -113,7 +113,29 @@
         "VerticalAlign": "Center"
       }
     ],
-    "Children": []
+    "Children": [],
+    "__properties": {
+      "NetworkInterpolation": true,
+      "PhysicsMode": "Physics3D",
+      "TimeScale": 1,
+      "WantsSystemScene": true,
+      "Metadata": {},
+      "NavMesh": {
+        "Enabled": false,
+        "IncludeStaticBodies": true,
+        "IncludeKeyframedBodies": true,
+        "EditorAutoUpdate": false,
+        "AgentHeight": 64,
+        "AgentRadius": 16,
+        "AgentStepSize": 18,
+        "AgentMaxSlope": 40,
+        "ExcludedBodies": "",
+        "IncludedBodies": "",
+        "DeferGeneration": false,
+        "CustomBounds": false
+      }
+    },
+    "__variables": []
   },
   "ResourceVersion": 2,
   "ShowInMenu": false,

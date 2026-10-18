@@ -735,7 +735,7 @@
       ]
     },
     {
-      "__guid": "3af9cb63-7ada-49cd-8124-772c1670ddf9",
+      "__guid": "69e2809d-f995-4127-a482-12724a9131f8",
       "__version": 2,
       "__Prefab": {
         "Id": "e736398c-401c-48dd-9767-a3001776f3f4",
@@ -750,26 +750,18 @@
               "Type": "GameObject",
               "IdValue": "47b94072-0d28-467d-a476-0da8ac47dfc4"
             },
-            "Property": "Name",
-            "Value": "Navi Desktop"
-          },
-          {
-            "Target": {
-              "Type": "GameObject",
-              "IdValue": "47b94072-0d28-467d-a476-0da8ac47dfc4"
-            },
             "Property": "Position",
-            "Value": "54,-2.98869213E-06,62"
+            "Value": "54,0,62"
           }
         ],
         "MovedObjects": []
       },
       "__PrefabIdToInstanceId": {
-        "47b94072-0d28-467d-a476-0da8ac47dfc4": "3af9cb63-7ada-49cd-8124-772c1670ddf9",
-        "37790fe6-a2c3-47ed-b7dc-6f759dae6d1e": "34cf1c96-032a-4a53-9577-a6ec8171f737",
-        "30191418-89a1-4891-983e-542cb3cce4eb": "58c66c05-13d5-4df5-b680-5262122714f5",
-        "daca692d-ba72-47c1-8081-ecac3bb1f3f3": "81e0ee6d-bb93-4be2-a4b0-1d7391029fe8",
-        "89593448-781a-4943-b334-ca75deacdafc": "2b7d1ee2-819f-4e2e-a1d3-b0bdcf1a37a7"
+        "47b94072-0d28-467d-a476-0da8ac47dfc4": "69e2809d-f995-4127-a482-12724a9131f8",
+        "37790fe6-a2c3-47ed-b7dc-6f759dae6d1e": "070df267-b52b-40e7-bd3f-a1e172213acc",
+        "30191418-89a1-4891-983e-542cb3cce4eb": "859659c6-bd39-4608-a02c-132c2e7f2893",
+        "daca692d-ba72-47c1-8081-ecac3bb1f3f3": "a94cc224-e0d1-47b9-958c-a1b0765f75d6",
+        "89593448-781a-4943-b334-ca75deacdafc": "5e6a48da-4115-4069-946b-346e29cc46f7"
       }
     }
   ],
