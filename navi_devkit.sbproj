@@ -1,0 +1,43 @@
+{
+  "Title": "Navi Dev Kit",
+  "Type": "game",
+  "Org": "fractitude",
+  "Ident": "navi_devkit",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "AI": {
+    "EnableMcpCommunication": true
+  },
+  "Metadata": {
+    "MaxPlayers": 64,
+    "MinPlayers": 1,
+    "TickRate": 50,
+    "GameNetworkType": "Multiplayer",
+    "MapSelect": "Unrestricted",
+    "MapList": [
+      "facepunch.flatgrass"
+    ],
+    "RankType": "None",
+    "PerMapRanking": false,
+    "LeaderboardType": "None",
+    "CsProjName": "",
+    "StartupScene": "navi_devkit.scene",
+    "LaunchMode": "Normal",
+    "MapSettings": {
+      "UseCreateGameModal": false,
+      "NeedsMap": false,
+      "ShowChangeMap": false,
+      "DefaultMap": null,
+      "MapTarget": null
+    },
+    "RecommendedMinPlayers": 1,
+    "RecommendedMaxPlayers": 0,
+    "Coop": false,
+    "Versus": false
+  }
+}
